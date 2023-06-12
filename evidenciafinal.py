@@ -10,7 +10,6 @@ Original file is located at
 
 Brenda Villa Campos A01732238
 """
-pip install streamlit-extras
 import streamlit as st
 import pandas as pd
 import numpy as np
